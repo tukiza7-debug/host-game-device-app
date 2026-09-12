@@ -3,12 +3,12 @@
     <color name="white">#f5f5f5</color>
     <color name="black">#000000</color>
 
-    <color name="status_bar">#3C93F0</color>
+    <color name="status_bar">#8E44AD</color>
 
     <color name="status_online">#2ECC71</color>
     <color name="status_offline">#E74C3C</color>
 
-    <color name="btn_color_nomal">#323540</color>
+    <color name="btn_color_nomal">#2A1B3D</color>
 
-    <color name="theme_color">#1D2228</color>
+    <color name="theme_color">#120E1A</color>
 </resources>
